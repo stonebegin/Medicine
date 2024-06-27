@@ -1,6 +1,6 @@
 # Medicine
 
-## A Modal-Independent Microservice Failure Diagnosis Framework Based on Multimodal Adaptive Optimization
+## Giving Every Modality a Voice in Microservice Failure Diagnosis via Multimodal Adaptive Optimization
 
 The framework consists of three main stages: feature encoding, modality fusion, and optimization balancing. In the feature encoding stage, we design specific encoders for metrics, logs, and traces based on their characteristics. During the modality fusion stage, we use a fusion module with channel attention to combine the original statistical features and the failure classification features extracted by the encoders. In the optimization balancing stage, Medicine employs a modality evaluation component to identify high-yield and low-yield modalities, then uses a gradient suppression component to optimize high-yield modalities and a feature enhancement component to strengthen low-yield modalities.
 
