@@ -68,3 +68,22 @@ All result will be saved in `result/`
 download pytorch version of `bert-base-uncased` from [huggingface](https://huggingface.co/google-bert/bert-base-uncased/tree/main)
 
 then copy them into `./cache/`
+
+## Citing Medicine
+Medicine paper is published in IEEE/ACM International Conference on Automated Software Engineering 2024. If you use Medicine, we would appreciate citations to the following paper:
+
+```Giving Every Modality a Voice in Microservice Failure Diagnosis via Multimodal Adaptive Optimization.```
+
+>By Lei Tao, Shenglin Zhang, Zedong Jia, Jinrui Sun, Dan Pei, et.al.
+
+BibTex:
+
+```
+@inproceedings{tao2024medicine,
+  title={Giving Every Modality a Voice in Microservice Failure Diagnosis via Multimodal Adaptive Optimization},
+  author={Tao, Lei and Zhang, Shenglin and Jia, Zedong and Sun, Jinrui and Ma, Minghua and Li, Zhengdan and Sun, Yongqian and Yang, Canqun and Zhang, Yuzhi and Pei, Dan},
+  booktitle={Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering},
+  pages={1107--1119},
+  year={2024}
+}
+```
